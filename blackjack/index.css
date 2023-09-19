@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    padding:15px;
+    background-color: green;
+    color: white;
+    font-weight: 600;
+}
+h1{
+    color: goldenrod;
+}
+p{
+    padding:20px;
+}
+#message-el{
+    font-style: italic;
+}
+#startButton{
+    background-color: goldenrod;
+    color:green;
+    width: 150px;
+    height:35px;
+    border: none;
+    border-radius: 2px;
+}
+#newCardButton{
+    background-color: goldenrod;
+    color:green;
+    width: 150px;
+    height:35px;
+    border: none;
+    border-radius: 2px;
+}
