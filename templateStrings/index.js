@@ -9,3 +9,7 @@ const templateEmail=`Hey ${recipient}!
 How is it going?
 Cheers ${sender}`;
 console.log(templateEmail);
+
+let currentViewers;
+
+console.log(currentViewers);
