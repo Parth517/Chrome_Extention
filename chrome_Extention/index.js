@@ -16,7 +16,7 @@ if (leadsFromLocalStorage){
 
 const tabs= [
     {url:"https://www.linkedin.com/in/parth-deshpande/"}
-]
+];
 tabBtn.addEventListener("click",function(){
     chrome.tabs.query({active :true, currentWindow:true}, function(tabs){
         console.log(tabs);
